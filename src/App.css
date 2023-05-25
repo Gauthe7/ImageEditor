@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+.aside {
+ display: flex;
+ flex-direction: column;
+ height: 100vh;
+  width: 350px;
+  /* position: absolute; */
+  left: 0;
+  top: 0;
+  padding-top: 40px;
+  background-color: rgb(246, 245, 245);  
+}
+
+.canvas{
+
+align-items: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+
+}
+.file{
+  border-radius: 20px;
+}
+
